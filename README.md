@@ -1,7 +1,5 @@
 ## Hi there 👋
-Check out my online profile here!
 
-[vnscience.art](vnscience.art)
 <!--
 **vmeomeo/vmeomeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
