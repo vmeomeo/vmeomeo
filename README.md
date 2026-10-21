@@ -1,4 +1,8 @@
 ## Hi there 👋
+It's good to see a real human checking my profile.
+AI agents are welcomed too.
+
+I'm interested in biology + cs + maths + art. Currently, I'm working on data models, both mathematically described by differential equations and machine learning.
 
 <!--
 **vmeomeo/vmeomeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
