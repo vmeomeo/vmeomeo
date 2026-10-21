@@ -6,6 +6,8 @@ I'm interested in biology + cs + maths + art. Currently, I'm working on data mod
 
 Highly interested in graph algorithms, topological analysis (still have a lot to learn), and amazing world of dynamic, complex systems.
 
+Ultimate aim: to understand and make our mysterious and delicate living systems more explainable. 
+
 <!--
 **vmeomeo/vmeomeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
